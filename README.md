@@ -4,7 +4,7 @@ This repository contains a simple stopwatch implementation using Python, designe
 
 ### Features:
 - Start, stop, and reset functionality.
-- Implemented using Python's `time` module for accurate time tracking.
+- Implemented using Python's `tkinter` module for accurate time tracking.
 - User-friendly command-line interface for control.
 
 ### How to Use:
